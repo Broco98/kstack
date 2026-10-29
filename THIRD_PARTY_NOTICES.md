@@ -36,3 +36,10 @@ kstack은 pstack의 아이디어(증거 사다리, 리팩터 관문, 따라잡�
 
 - 원본: <https://github.com/cursor/plugins/tree/main/pstack> (Lauren Tan)
 - Claude Code 포트: <https://github.com/michael-denyer/pstack-claude> (MIT)
+
+## humanlayer/humanlayer — `show-me` (Apache-2.0)
+
+`skills/pr`의 Summary 절에 나오는 시각 자료 안내(의사 코드 · 호출 트리 · 컴포넌트 트리 · 파일 트리 · Mermaid · diff)와 배치 지침은 Dex Horthy의 `show-me` 스킬에서 왔다. Matt Pocock이 이것을 `pr`에 옮겼고(`skills/pr/CREDITS.md`), kstack은 그것을 다시 한국어로 옮겼다. kstack이 바꾼 것은 번역뿐이다.
+
+- 원본: <https://github.com/humanlayer/humanlayer>
+- 라이선스: Apache License 2.0 → [licenses/Apache-2.0.txt](licenses/Apache-2.0.txt)

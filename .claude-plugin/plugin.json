@@ -1,0 +1,11 @@
+{
+  "name": "kstack",
+  "description": "Matt Pocock 스킬을 한국어로 옮기고 pstack의 검증 · 엔지니어링 아이디어를 녹인 스킬 모음",
+  "author": {
+    "name": "KimHyoYeon",
+    "url": "https://github.com/Broco98"
+  },
+  "repository": "https://github.com/Broco98/kstack",
+  "license": "MIT",
+  "keywords": ["korean", "workflow", "spec", "review", "refactoring", "codex", "opencode"]
+}
